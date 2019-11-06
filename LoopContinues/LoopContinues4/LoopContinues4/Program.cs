@@ -25,7 +25,7 @@ namespace LoopContinues4
                     kruuna = kruuna + 1;
                 }
             }
-            Console.WriteLine($"Rahaa on heitetty {a} kertaa.\nKlaavoja tuli {klaava} ja kruunuja {kruuna}");
+            Console.WriteLine($"Kolikkoa on heitetty {a} kertaa.\nKlaavoja tuli {klaava} ja kruunuja {kruuna}.");
         }
     }
 }
